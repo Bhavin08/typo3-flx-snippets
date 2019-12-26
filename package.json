@@ -5,7 +5,7 @@
 	"icon": "images/icon.png",
 	"version": "1.0.0",
 	"preview": true,
-	"publisher": "bhavin-nitsan",
+	"publisher": "BhavinNITSAN",
 	"galleryBanner": {
 		"color": "#000000",
 		"theme": "dark"
@@ -36,7 +36,7 @@
 	"contributes": {
 		"snippets": [
 			{
-				"language": "html",
+				"language": "xml",
 				"path": "./snippets/flx.json"
 			}
 		]
