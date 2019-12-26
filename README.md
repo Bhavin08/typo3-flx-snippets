@@ -6,6 +6,23 @@ For further infomation about some of the snippets lookup the TYPO3 FlexForms doc
 
 * [docs.typo3.org](https://docs.typo3.org/m/typo3/reference-coreapi/8.7/en-us/ApiOverview/FlexForms/Index.html)
 
+## Commands
+* flx - For Flxform basic structure
+* flxcheckbox - For Check Box
+* flxcolor - For Colour Picker
+* flxdisplaycond - For Display Condition
+* flxfalimage - For FAL Image
+* flxfileimage - For File Image 
+* flxgroup - For Group 
+* flxinput - For Simple Input
+* flxinputint - For Integer Input 
+* flxlist - For Dropdown List
+* flxrte - For RTE
+* flxsection - For Section Structure
+* flxselectside - For Select Side By Side
+* flxtextarea - For Text Area
+* flxtypolink - For Typolink
+
 ## Requirements
 
 * VS Code > 1.0.0
