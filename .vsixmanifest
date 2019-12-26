@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="typo3-flx-snippets" Version="1.0.0" Publisher="bhavin"/>
+    <Identity Language="en-US" Id="typo3-flx-snippets" Version="1.0.1" Publisher="bhavin"/>
     <DisplayName>TYPO3 FlexForms Snippets</DisplayName>
     <Description xml:space="preserve">A collection of snippets for the TYPO3 FlexForms syntax</Description>
     <Tags>typo3,flexform,flx,snippet</Tags>

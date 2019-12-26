@@ -3,7 +3,7 @@
 	"displayName": "TYPO3 FlexForms Snippets",
 	"description": "A collection of snippets for the TYPO3 FlexForms syntax",
 	"icon": "images/icon.png",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"preview": true,
 	"publisher": "BhavinNITSAN",
 	"galleryBanner": {
